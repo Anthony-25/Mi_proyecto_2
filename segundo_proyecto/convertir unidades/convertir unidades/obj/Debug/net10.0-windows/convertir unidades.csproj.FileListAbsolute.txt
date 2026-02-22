@@ -1,0 +1,16 @@
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.csproj.GenerateResource.cache
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.AssemblyInfo.cs
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\bin\Debug\net10.0-windows\convertir unidades.exe
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\bin\Debug\net10.0-windows\convertir unidades.deps.json
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\bin\Debug\net10.0-windows\convertir unidades.runtimeconfig.json
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\bin\Debug\net10.0-windows\convertir unidades.dll
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\bin\Debug\net10.0-windows\convertir unidades.pdb
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir_unidades.Form1.resources
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.dll
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\refint\convertir unidades.dll
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.pdb
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\convertir unidades.genruntimeconfig.cache
+C:\Users\faust\OneDrive\Escritorio\segundo_proyecto\convertir unidades\convertir unidades\obj\Debug\net10.0-windows\ref\convertir unidades.dll

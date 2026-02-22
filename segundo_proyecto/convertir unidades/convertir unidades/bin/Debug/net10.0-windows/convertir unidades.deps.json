@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "convertir unidades/1.0.0": {
+        "runtime": {
+          "convertir unidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "convertir unidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
