@@ -1,0 +1,17 @@
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\bin\Debug\net10.0-windows\Arreglos_winforms.exe
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\bin\Debug\net10.0-windows\Arreglos_winforms.deps.json
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\bin\Debug\net10.0-windows\Arreglos_winforms.runtimeconfig.json
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\bin\Debug\net10.0-windows\Arreglos_winforms.dll
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\bin\Debug\net10.0-windows\Arreglos_winforms.pdb
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.Form1.resources
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.csproj.GenerateResource.cache
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.AssemblyInfo.cs
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.sourcelink.json
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.dll
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\refint\Arreglos_winforms.dll
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.pdb
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\Arreglos_winforms.genruntimeconfig.cache
+C:\Users\faust\OneDrive\Escritorio\Mi_proyecto_2\Mi_proyecto_2\Arreglos_winforms\Arreglos_winforms\obj\Debug\net10.0-windows\ref\Arreglos_winforms.dll
